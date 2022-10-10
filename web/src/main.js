@@ -4,6 +4,9 @@ import router from './router'
 
 Vue.config.productionTip = false
 
+/* Import tailwind. */
+import 'tailwindcss/tailwind.css'
+
 new Vue({
   router,
   render: h => h(App)

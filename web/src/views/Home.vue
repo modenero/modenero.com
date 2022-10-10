@@ -1,5 +1,6 @@
 <template>
   <div class="home">
+      <div class="text-red-500 text-5xl">Tailwind CSS is working!</div>
     <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
