@@ -10,7 +10,7 @@
                         </div>
                         <div class="mt-20">
                             <div>
-                                <a href="#" class="inline-flex space-x-4">
+                                <a href="javascript://" class="inline-flex space-x-4">
                                     <span class="rounded bg-rose-50 px-2.5 py-1 text-sm font-semibold text-rose-500">What's new</span>
                                     <span class="inline-flex items-center space-x-1 text-sm font-medium text-rose-500">
                                         <span>Just shipped version 0.1.0</span>
@@ -25,7 +25,7 @@
                                 <h1 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">Issue management for growing teams</h1>
                                 <p class="mt-6 text-xl text-gray-500">Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo.</p>
                             </div>
-                            <form action="#" class="mt-12 sm:flex sm:w-full sm:max-w-lg">
+                            <form action="javascript://" class="mt-12 sm:flex sm:w-full sm:max-w-lg">
                                 <div class="min-w-0 flex-1">
                                     <label for="hero-email" class="sr-only">Email address</label>
                                     <input
@@ -207,7 +207,7 @@
                                 </div>
                             </dl>
                             <div class="mt-10">
-                                <a href="#" class="text-base font-medium text-rose-500">Learn more about how we're changing the world&nbsp;&rarr;</a>
+                                <a href="javascript://" class="text-base font-medium text-rose-500">Learn more about how we're changing the world&nbsp;&rarr;</a>
                             </div>
                         </div>
                     </div>
@@ -219,13 +219,15 @@
                 <div class="mx-auto max-w-md px-4 sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8">
                     <div class="lg:grid lg:grid-cols-2 lg:items-center lg:gap-24">
                         <div>
-                            <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Backed by world-renowned investors</h2>
+                            <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+                                Decentralized Finance (DeFi) Solutions Provider
+                            </h2>
+
                             <p class="mt-6 max-w-3xl text-lg leading-7 text-gray-500">
-                                Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor
-                                vitae ut. Amet vitae fames senectus vitae.
+                                Since 2015, Modenero has provided the digital currency community with bespoke, enterprise solutions; supported by a team meticulously crafted for delivering the most fantastic dreams imagined by the industry's most cutting-edge visionaries.
                             </p>
                             <div class="mt-6">
-                                <a href="#" class="text-base font-medium text-rose-500">Meet our investors and advisors&nbsp;&rarr;</a>
+                                <a href="javascript://" class="text-base font-medium text-rose-500">Meet our investors and advisors&nbsp;&rarr;</a>
                             </div>
                         </div>
                         <div class="mt-12 grid grid-cols-2 gap-0.5 md:grid-cols-3 lg:mt-0 lg:grid-cols-2">
@@ -283,7 +285,7 @@
                                 <h2 class="text-3xl font-bold tracking-tight text-white sm:text-4xl">Get notified when we&rsquo;re launching.</h2>
                                 <p class="mx-auto mt-6 max-w-2xl text-lg text-rose-100">Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque.</p>
                             </div>
-                            <form action="#" class="mt-12 sm:mx-auto sm:flex sm:max-w-lg">
+                            <form action="javascript://" class="mt-12 sm:mx-auto sm:flex sm:max-w-lg">
                                 <div class="min-w-0 flex-1">
                                     <label for="cta-email" class="sr-only">Email address</label>
                                     <input
@@ -313,31 +315,31 @@
             <div class="mx-auto max-w-md overflow-hidden py-12 px-4 sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8">
                 <nav class="-mx-5 -my-2 flex flex-wrap justify-center" aria-label="Footer">
                     <div class="px-5 py-2">
-                        <a href="#" class="text-base text-gray-400 hover:text-gray-300">About</a>
+                        <a href="javascript://" class="text-base text-gray-400 hover:text-gray-300">About</a>
                     </div>
 
                     <div class="px-5 py-2">
-                        <a href="#" class="text-base text-gray-400 hover:text-gray-300">Blog</a>
+                        <a href="javascript://" class="text-base text-gray-400 hover:text-gray-300">Blog</a>
                     </div>
 
                     <div class="px-5 py-2">
-                        <a href="#" class="text-base text-gray-400 hover:text-gray-300">Jobs</a>
+                        <a href="javascript://" class="text-base text-gray-400 hover:text-gray-300">Jobs</a>
                     </div>
 
                     <div class="px-5 py-2">
-                        <a href="#" class="text-base text-gray-400 hover:text-gray-300">Press</a>
+                        <a href="javascript://" class="text-base text-gray-400 hover:text-gray-300">Press</a>
                     </div>
 
                     <div class="px-5 py-2">
-                        <a href="#" class="text-base text-gray-400 hover:text-gray-300">Accessibility</a>
+                        <a href="javascript://" class="text-base text-gray-400 hover:text-gray-300">Accessibility</a>
                     </div>
 
                     <div class="px-5 py-2">
-                        <a href="#" class="text-base text-gray-400 hover:text-gray-300">Partners</a>
+                        <a href="javascript://" class="text-base text-gray-400 hover:text-gray-300">Partners</a>
                     </div>
                 </nav>
                 <div class="mt-8 flex justify-center space-x-6">
-                    <a href="#" class="text-gray-400 hover:text-gray-300">
+                    <a href="javascript://" class="text-gray-400 hover:text-gray-300">
                         <span class="sr-only">Facebook</span>
                         <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                             <path
@@ -348,7 +350,7 @@
                         </svg>
                     </a>
 
-                    <a href="#" class="text-gray-400 hover:text-gray-300">
+                    <a href="javascript://" class="text-gray-400 hover:text-gray-300">
                         <span class="sr-only">Instagram</span>
                         <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                             <path
@@ -359,7 +361,7 @@
                         </svg>
                     </a>
 
-                    <a href="#" class="text-gray-400 hover:text-gray-300">
+                    <a href="javascript://" class="text-gray-400 hover:text-gray-300">
                         <span class="sr-only">Twitter</span>
                         <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                             <path
@@ -368,7 +370,7 @@
                         </svg>
                     </a>
 
-                    <a href="#" class="text-gray-400 hover:text-gray-300">
+                    <a href="javascript://" class="text-gray-400 hover:text-gray-300">
                         <span class="sr-only">GitHub</span>
                         <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                             <path
@@ -379,7 +381,7 @@
                         </svg>
                     </a>
 
-                    <a href="#" class="text-gray-400 hover:text-gray-300">
+                    <a href="javascript://" class="text-gray-400 hover:text-gray-300">
                         <span class="sr-only">Dribbble</span>
                         <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                             <path
