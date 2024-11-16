@@ -21,4 +21,7 @@ export default defineNuxtConfig({
         /* Tailwind CSS */
         '@nuxtjs/tailwindcss'
     ],
+
+    /* Set compatibility date. */
+    compatibilityDate: '2024-11-16',
 })

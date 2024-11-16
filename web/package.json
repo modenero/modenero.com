@@ -1,6 +1,6 @@
 {
   "name": "modenero.com",
-  "version": "23.7.1",
+  "version": "24.11.16",
   "license": "MIT",
   "scripts": {
     "build": "nuxt build",
@@ -10,11 +10,11 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "ethers": "6.0.8",
+    "ethers": "6.13.4",
     "nexajs": "22.12.23",
-    "nuxt": "3.0.0"
+    "nuxt": "3.12.4"
   },
   "devDependencies": {
-    "@nuxtjs/tailwindcss": "6.4.1"
+    "@nuxtjs/tailwindcss": "6.12.1"
   }
 }
