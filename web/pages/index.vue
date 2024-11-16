@@ -29,7 +29,7 @@
                     </h1>
 
                     <p class="mt-6 text-lg leading-8 text-gray-600">
-                        Since 2015, Modenero has provided the digital currency community with bespoke, enterprise solutions; supported by a team meticulously crafted for <span class="text-sky-700 font-bold">delivering the most fantastic dreams</span> imagined by the industry's most cutting-edge visionaries.
+                        Since 2015, Modenero DAO has provided the digital currency community with bespoke, enterprise solutions; supported by a team meticulously crafted for <span class="text-sky-700 font-bold">delivering the most fantastic dreams</span> imagined by the industry's most bleeding-edge visionaries.
                     </p>
 
                     <div class="mt-10 flex items-center gap-x-6">
